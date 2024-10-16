@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nlg/dduAP/7lfjkeFA3arSROCqGMlyAaQQTqWCzgPCU=",
+  "Source": "SecureDotNetApi",
+  "BasePath": "_content/SecureDotNetApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
